@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/muhammadRizki12/comvis-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LordNaj1M/kompis-cnfd.git
+[submodule "ai-engine"]
+	path = ai-engine
+	url = https://github.com/tirtab/crowd_fatigue_detection_web.git
