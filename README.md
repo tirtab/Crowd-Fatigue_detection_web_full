@@ -505,7 +505,7 @@ Untuk berkontribusi pada proyek ini:
 
 ## Lisensi
 
-Proyek ini, pada fitur face recognition menggunakan referensi source code yang dilisensikan di bawah MIT License - lihat file [LICENSE.md](ai-engine/LICENSE.md) untuk detail.
+Proyek ini, pada fitur face recognition dan yang terkait menggunakan referensi source code yang dilisensikan di bawah MIT License - lihat file [LICENSE.md](ai-engine/LICENSE.md) untuk detail.
 
 ## Kontak
 
